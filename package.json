@@ -1,0 +1,17 @@
+{
+  "name": "numeros-felizes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "karoline souza",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "git": "^0.1.5",
+    "mocha": "^7.1.0",
+    "uniq": "^1.0.1"
+  }
+}
